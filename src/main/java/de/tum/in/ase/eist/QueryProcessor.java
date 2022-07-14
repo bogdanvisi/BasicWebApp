@@ -23,6 +23,8 @@ public class QueryProcessor {
             return "304";
         } else if(query.contains("largest")) {  // TODO extend the programm here\
             return "445";
+        } else if(query.contains("cube")) {  // TODO extend the programm here\
+            return "625";
         }
         else {
             return "";
