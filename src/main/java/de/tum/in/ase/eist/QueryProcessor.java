@@ -16,13 +16,13 @@ public class QueryProcessor {
         } else if(query.contains("banana")) {  // TODO extend the programm here\
             return "yellow";
         } else if(query.contains("prime")) {  // TODO extend the programm here\
-            return "17";
+            return "271";
         } else if(query.contains("17")) {  // TODO extend the programm here\
             return "272";
         } else if(query.contains("19")) {  // TODO extend the programm here\
             return "304";
-        } else if(query.contains("Theresa")) {  // TODO extend the programm here\
-            return "2016";
+        } else if(query.contains("primes")) {  // TODO extend the programm here\
+            return "17";
         }
         else {
             return "";
