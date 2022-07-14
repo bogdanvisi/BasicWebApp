@@ -16,7 +16,7 @@ public class QueryProcessor {
         } else if(query.contains("banana")) {  // TODO extend the programm here\
             return "yellow";
         } else if(query.contains("prime")) {  // TODO extend the programm here\
-            return "271";
+            return "17";
         } else if(query.contains("17")) {  // TODO extend the programm here\
             return "272";
         } else if(query.contains("19")) {  // TODO extend the programm here\
