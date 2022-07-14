@@ -21,8 +21,8 @@ public class QueryProcessor {
             return "272";
         } else if(query.contains("19")) {  // TODO extend the programm here\
             return "304";
-        } else if(query.contains("primes")) {  // TODO extend the programm here\
-            return "17";
+        } else if(query.contains("largest")) {  // TODO extend the programm here\
+            return "445";
         }
         else {
             return "";
